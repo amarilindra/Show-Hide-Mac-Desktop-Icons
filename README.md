@@ -1,12 +1,14 @@
 Instantly Show or Hide Desktop Icons on your MAC
 =====
-<img src="assets/icon.png" width="250px" height="250px"/>
+<img src="assets/logo.png" width="250px" height="250px"/>
 
 This is a simple Automator app writen is shell script that toggles the visibility of desktop icons in macOS.
 
 All you have to do is, download the app and extract the zip file. 
 
 After extraching the downloaded file, **drag the "Show / Hide Desktop Icons" app to your Dock** and you are done. Simple right? 
+
+<img src="assets/dock.png" />
 
 Whenever you wish to hide the desktop icons, just click on the app icon in Dock and your desktop icons will disappear instantly. Don't worry you can access them normally from Finder.
 
