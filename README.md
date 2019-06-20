@@ -2,7 +2,7 @@ Instantly Show or Hide Desktop Icons on your MAC
 =====
 <img src="assets/icon.png" width="250px" height="250px"/>
 
-This is a simple Automator app writen is shell script that toggles the visibility of desktop icons in macOS.
+This is a simple Automator app writen is shell script that toggle the visibility of desktop icons in macOS.
 
 All you have to do is, download the app and extract the zip file. 
 
