@@ -42,3 +42,5 @@ Useful Links
 [1]: https://github.com/amarilindra/Show-Hide-Mac-Desktop-Icons/blob/master/script.sh
 [2]: https://www.geekdashboard.com/show-hide-desktop-icons-on-mac/
 [3]: https://github.com/amarilindra/Show-Hide-Mac-Desktop-Icons/raw/master/Show%20:%20Hide%20Desktop%20Icons.app.zip
+
+<a href="https://www.producthunt.com/posts/show-hide-desktop-icons?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-show-hide-desktop-icons" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=159063&theme=light" alt="Show / Hide Desktop Icons - Instantly toggle the visibility of desktop icons in macOS | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
